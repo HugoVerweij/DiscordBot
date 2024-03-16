@@ -24,5 +24,5 @@ Dit is de play commando van het music component. Hier kan de gebruiker een link,
 Dit is de play commando van het music component. Bij dit voorbeeld wordt een zoekterm gebruikt inplaats van een directe link.
 
 ### Queue
-![Discord_fr512TayQX](https://github.com/HugoVerweij/DiscordBot/assets/163334632/0e87f2a6-27d1-43d4-a6d9-24a5c0432b9e) 
+![Discord_fr512TayQX](https://github.com/HugoVerweij/DiscordBot/assets/163334632/0e87f2a6-27d1-43d4-a6d9-24a5c0432b9e)  
 Dit is de queue commando van het music component. Hier kan de gebruiker zien welke nummers op de afspeel lijst staan.  
